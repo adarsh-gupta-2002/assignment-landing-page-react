@@ -1,0 +1,40 @@
+.instructor{
+    width: 80%;
+    margin-inline: auto;
+}
+
+
+.content{
+    display: flex;
+    gap: 2rem;
+    align-items: center;
+    margin-top: 2rem;
+}
+
+ 
+
+.content img{
+    border-radius: 50%;
+    width: 120px;
+    height: 120px;
+}
+ 
+
+.social{
+    display: flex;
+    justify-content: space-between;
+    width:80%;
+    margin-inline: auto;
+    margin-block: 2rem;
+
+}
+
+.column-container {
+    max-width: 800px;
+    margin: auto;
+}
+
+.two-columns {
+  column-count: 2;
+  column-gap: 1rem;  
+}
